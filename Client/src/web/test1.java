@@ -1,3 +1,3 @@
 class SomeC{
-
+int[] testo;
 }
